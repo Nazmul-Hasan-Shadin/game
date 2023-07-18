@@ -79,6 +79,10 @@ padding: 10px;
   background: rgba(11, 2, 35, 0.1);
   padding: 12px;
 }
+.follow-us span i{
+    padding-left: 13px;
+    font-size: 18px;
+}
 
 /* banner style */
 .banner-container {
@@ -119,6 +123,9 @@ padding: 10px;
   -webkit-text-fill-color: transparent;
   margin-top: 0;
   margin-bottom: 24px;
+}
+.banner-content button{
+    display: inline-block;
 }
 
 .banner-content p {
@@ -302,7 +309,7 @@ line-height: normal;
 
 
 .footer-container{
-    background: #0B0223;
+    background-color: #0B0223;
     margin-top: 95px;
 }
 
@@ -377,6 +384,10 @@ p.copyright {
   }
   .banner-content h2 {
     font-size: 60px;
+  }
+  .primary-btn{
+    padding: 11px 16px;
+    border-radius: 22px;
   }
   .banner-container div {
     width: 100%;
