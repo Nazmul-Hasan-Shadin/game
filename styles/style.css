@@ -130,9 +130,9 @@ padding: 10px;
 
 .banner-content p {
   color: #534c64;
-
+  text-align: start;
   font-size: 20px;
-  font-style: normal;
+
   font-weight: 500;
 
   text-transform: lowercase;
@@ -384,6 +384,9 @@ p.copyright {
   }
   .banner-content h2 {
     font-size: 60px;
+  }
+  .banner-content p{
+    text-align: center;
   }
   .primary-btn{
     padding: 11px 16px;
