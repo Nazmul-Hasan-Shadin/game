@@ -242,7 +242,7 @@ padding: 10px;
   left: 0;
   width: 100%;
   height: 71%;
-  background-color: rgba(0, 0, 0, 0.7); /* Adjust the overlay color and opacity as needed */
+  background-color: rgba(0, 0, 0, 0.7); 
   display: none;
 }
 .div:hover .overlay {
@@ -581,7 +581,7 @@ p.copyright {
     }
     .effect {
       position: relative;
-    
+      margin-right: 42px;
       width: 100%;
       height: 100%;
     }
