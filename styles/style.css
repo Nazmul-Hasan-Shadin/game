@@ -403,11 +403,11 @@ font-weight: 500;
 
 }
 
-.social-icon{
+.social-icon i{
     color: white;
     font-size: 45px;
 }
-.social-icon span i {
+.social-icon span a i {
     margin-left: 15px;
     margin-top: 45px;
     margin-bottom: 33px;
