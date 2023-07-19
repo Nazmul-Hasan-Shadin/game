@@ -479,6 +479,11 @@ p.copyright {
     flex-direction: column;
     text-align: center;
   }
+  .game-video-detail{
+        max-width: 71%;
+    margin: auto;
+    margin-bottom: 23px;
+  }
   .game-play-container{
     text-align: center;
     flex-direction: column;
